@@ -23,13 +23,13 @@ The framework integrates **semantic, sequential, and structural learning**, alon
   - BiLSTM → Sequential context  
   - RGAT → Structural relationships (AST, CFG, PDG)
 - 📊 **Ranking-Based Evaluation**
-  - Recall@20% LOC  
-  - Effort@20%  
-  - IFA (Initial False Alarms)
+  - 78% Recall@20% LOC  
+  - 1% Effort@20%  
+  - 0.00 IFA (Initial False Alarms)
 - 🔎 **Explainability Integration**
   - Graph-based explanations (GNNExplainer)  
   - Feature-based explanations (LIME)
-- ⚡ **Designed for Large-Scale Python Projects**
+- ⚡ **Designed for Large-Scale Python Projects in Modern Software Enterprices**
 
 ---
 
